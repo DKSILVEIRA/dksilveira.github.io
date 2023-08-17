@@ -46,7 +46,7 @@
     gap: 40px;
   }
   .introducao h1 {
-    font-size: 2rem;
+    font-size: 2.5rem;
   }
   .introducao h1::before {
     width: 30px;
